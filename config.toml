@@ -1,0 +1,5 @@
+
+[module]
+[[module.imports.mounts]]
+source = "styles"
+target = "assets"
