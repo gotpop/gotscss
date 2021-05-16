@@ -1,3 +1,3 @@
-# Biosfera-scss
+# Got SCSS
 
-Hugo module containing styles for the Biosfera boilerplate
+Hugo module containing styles for the Got boilerplate
