@@ -2,4 +2,4 @@
 [module]
 [[module.imports.mounts]]
 source = "styles"
-target = "assets"
+target = "assets/scss"
